@@ -1,0 +1,7 @@
+streamlit
+pillow
+tensorflow 
+opencv-python 
+numpy
+lxml[html_clean]
+opencv-python-headless
